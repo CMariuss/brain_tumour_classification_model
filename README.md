@@ -13,5 +13,7 @@
 | MONAI          | 99.49%         | 5.31       | 20               | 6.5 hours  |
 
 
+The files "monai_train_classification_model_with_data.ipynb" and "tensorflow_train_classification_model.ipynb" contain the source codes for training the models, while the file "monai_vs_tensorflow_study.ipynb" is the source code for the comparative study.
+
 <p>The dataset was taken from Kaggle: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset</p>
 <p>You can find more details obout this study in the article I published on LinkedIn by accessing this link: https://www.linkedin.com/pulse/tensorflow-monai-training-process-difference-brain-tumour-crintea-fbr4f</p>
