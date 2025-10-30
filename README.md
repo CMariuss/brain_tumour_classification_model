@@ -1,8 +1,8 @@
 ### Brain Tumour Classification Models with Tensorflow and MONAI
 
-<p>The goal of this project was to train two AI models using neural networks from TensorFlow and MONAI in order to classify 3 types of brain tumour, as well as to compare the results obtained during the training process.</p>
+<p>The goal of this project was to train two AI models using neural networks from <b>TensorFlow</b> and <b>MONAI</b> in order to classify 3 types of brain tumour, as well as to compare the results obtained during the training process.</p>
 
-<p>Below is a graph that show how TensorFlow and MONAI neural networks performed in the last 10 epochs.</p>
+<p>Below is a graph showing how <b>TensorFlow</b> and <b>MONAI</b> neural networks performed over <b>last 10 epochs.</b></p>
 <img src="results/last_10_epochs.png" alt="Mean temperature" width="600"/>
 
 <p>The model trained with MONAI neural networks for <b>20 epochs</b> reached an accuracy of <b>99.49%</b>, while the one trained with TensorFlow for the same number of epochs reached <b>99.71%</b> accuracy. Although there is not a big difference in the accuracy results, the time required to train the model with TensorFlow was incomparable smaller as we can see in the table above.</p>
